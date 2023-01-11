@@ -425,7 +425,7 @@
           "type": "WorkspaceGitHubConfiguration",
           "hostName": "https://github.com",
           "accountName": "[parameters('githubUsername')]",
-          "repositoryName": "Test-Drive-Azure-Synapse-with-a-1-click-POC",
+          "repositoryName": "1click-synapsePOC",
           "rootFolder": "/synapsepoc",
           "collaborationBranch": "main"
         }
